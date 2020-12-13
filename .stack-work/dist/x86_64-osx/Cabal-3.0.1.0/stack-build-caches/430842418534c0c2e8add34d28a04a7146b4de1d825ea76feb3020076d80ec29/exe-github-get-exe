@@ -3,9 +3,9 @@
   size: 50
   modtime: 1607869885
 /Users/suzukimiyuki/Desktop/software_engineering-github_api/github-get.cabal:
-  hash: 2bb2fc746c080e60a3605a9a90af6863b46dac5cf6d3ef43b4a929677ff7d36e
-  size: 1765
-  modtime: 1607889966
+  hash: e6b6d52e5d7bd7d6e5fa4f7e56e4b72068e0ac92e761ed66a8d3910acb51c8ad
+  size: 1831
+  modtime: 1607890671
 /Users/suzukimiyuki/Desktop/software_engineering-github_api/app/Main.hs:
   hash: 76b6ff5a6856b39392800f564d81a7fd1496c8e13ac7941036946f0b5757272b
   size: 61
@@ -15,6 +15,6 @@
   size: 33
   modtime: 1607878848
 /Users/suzukimiyuki/Desktop/software_engineering-github_api/package.yaml:
-  hash: bc4aa20e7b1ed87cfd39b36d057b33dfd3abff9e41d057da27c84639d6c5f9ae
-  size: 1259
-  modtime: 1607889966
+  hash: 22073b18f5ea7b3093ed8be84884de6cc97e335f43572423295bed8f943c2d8e
+  size: 1279
+  modtime: 1607890671
