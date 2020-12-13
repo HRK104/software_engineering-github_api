@@ -1,0 +1,3 @@
+[submodule "github-get"]
+	path = github-get
+	url = https://github.com/esjmb/github-get
