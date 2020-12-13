@@ -1,3 +1,6 @@
 [submodule "github-get"]
 	path = github-get
 	url = https://github.com/esjmb/github-get
+[submodule "github-yesod"]
+	path = github-yesod
+	url = https://github.com/esjmb/github-yesod.git
